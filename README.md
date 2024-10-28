@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorK2018
-- 👀 I’m interested in Software QA Automaton Engineer position 
-- 🌱 I am learning last trends in Software QA Automaton and Programming
+- 👀 I’m interested in Software QA Engineer with data analyst skills or Data Analyst position
+- 🌱 I am learning last trends in Software QA and IT
 - 📫 How to reach me - via my Linkedin link
 
 <!---
