@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictorK2018
-- 👀 I’m interested in Software QA Engineer with data analyst skills or Data Analyst position
+- 👀 I’m interested in Software QA Engineer position with data analyst skills
 - 🌱 I am learning last trends in Software QA and IT
 - 📫 How to reach me - via my Linkedin link
 
